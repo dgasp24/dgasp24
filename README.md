@@ -1,7 +1,7 @@
 ## Hi there, my name is Dominic and I go to UTSA!👋
 
 ![dgasp24's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgasp24&show_icons=true&theme=tokyonight)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgasp24&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgasp24&layout=donut&theme=tokyonight)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
