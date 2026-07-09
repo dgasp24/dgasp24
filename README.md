@@ -8,10 +8,6 @@
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### About
-
-I am currently a sophomore at UTSA studying in Computer Science. I am still undecided what I would like to do with the degree but I do have a passion on wanting to build and develop apps. If you have any questions about anything, please message me! 
-
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominic-gasper-435591205)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dommygabby7@gmail.com)
